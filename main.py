@@ -1,5 +1,6 @@
 from usuario import Usuario
-X=5
+X=20
+print(x)
 
 user = Usuario()
 print(type(user))
