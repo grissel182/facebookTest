@@ -17,3 +17,8 @@ class Usuario():
 		resultado = requests.post(self.url, params=parametros).json()
 		print(resultado)
 		return resultado
+
+
+#Checar en git cambios
+x=y
+print y
